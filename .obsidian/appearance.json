@@ -1,0 +1,11 @@
+{
+  "accentColor": "",
+  "baseFontSize": 18,
+  "cssTheme": "Blue Topaz",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "dashboard",
+    "clean-embeds",
+    "student"
+  ]
+}

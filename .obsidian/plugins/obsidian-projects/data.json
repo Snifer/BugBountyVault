@@ -1,0 +1,37 @@
+{
+  "version": 1,
+  "projects": [
+    {
+      "id": "c3a57c98-cf3b-4df0-87ba-97db17e6f668",
+      "name": "Learning Roadmap",
+      "path": "LearningRoadmap",
+      "recursive": true,
+      "defaultName": "",
+      "templates": [],
+      "views": [
+        {
+          "id": "d068837c-cf89-4773-ba95-3ca6d336a85d",
+          "name": "Table",
+          "type": "table",
+          "config": {
+            "fieldConfig": {
+              "path": {
+                "hide": true
+              }
+            }
+          }
+        },
+        {
+          "id": "3b21d53f-2464-465e-a17a-62407ff685a9",
+          "name": "Kanban",
+          "type": "board",
+          "config": {
+            "groupByField": "Status"
+          }
+        }
+      ]
+    }
+  ],
+  "lastProjectId": "c3a57c98-cf3b-4df0-87ba-97db17e6f668",
+  "lastViewId": "3b21d53f-2464-465e-a17a-62407ff685a9"
+}
